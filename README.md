@@ -130,24 +130,3 @@ RESULT
 The cloud activities in AWS were successfully audited using AWS CloudTrail Event History.
 
 Different AWS events were examined based on event time, user identity, event name, event source, AWS Region, read-only status, and error status. The experiment demonstrated how AWS CloudTrail provides an audit trail for monitoring, accountability, and investigation of cloud activities.
-
-About
-No description, website, or topics provided.
-Resources
-Readme
-Activity
-Stars
-0 stars
-Watchers
-0 watching
-Forks
-0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Contributors
-No contributors
-Footer
-© 2026 GitHub, Inc.# Activity-audit
